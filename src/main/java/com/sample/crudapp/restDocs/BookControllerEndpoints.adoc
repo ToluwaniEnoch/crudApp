@@ -1,0 +1,13 @@
+Documentation for Books Controller
+
+Get books by Id
+include::{snippets}/get-book-by-id-successfully/http-request.adoc[]
+include::{snippets}/get-book-by-id-successfully/http-response.adoc[]
+
+Get all books
+include::{snippets}/get-all-book-successfully/http-request.adoc[]
+include::{snippets}/get-all-book-successfully/http-response.adoc[]
+
+Add book
+include::{snippets}/add-book-return-success/http-request.adoc[]
+include::{snippets}/add-book-return-success/http-response.adoc[]
